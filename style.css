@@ -1,0 +1,97 @@
+body{
+background: linear-gradient(to bottom, rgba(218,204,222,1) 0%,rgba(191,109,219,1) 84%,rgba(203,144,221,1) 100%);
+margin-top: 0px;
+
+}
+  #content{
+    text-align: center;
+    margin-top: 0px;
+  }
+#navBar{
+  list-style-type: none;
+  float: left;
+  width: 10%;
+  height: 100%;
+  margin: 0px;
+  margin-left: 0px;
+  padding: 0px;
+  position:relative;
+  overflow:visible;
+  display: block;
+}
+.sites{
+  text-decoration: none;
+  font-family: sans-serif;
+  height: 100%;
+  display: block;
+  color: rgb(45,114,98);
+  text-align: center;
+  margin-left: 0px;
+}
+
+.links{
+  text-decoration: none;
+  color: rgb(45,114,98);
+  font-size: 40px;
+  display: block;
+  background-color: rgb(190,209,153);
+  border: 2px solid rgb(0,0,0);
+  height: 24.5%;
+  text-align: center;
+  margin-left: 0px;
+}
+.links:hover{
+  background-color: rgb(238,245,202);
+}
+
+p{
+  font-size: 20px;
+  color: rgb(70,42,0);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: ;
+}
+#intro{
+  font-size: 100px;
+  color: rgb(24,64,82);
+  margin-top: 0px;
+}
+
+#bigmoney{
+  font-size: 50px;
+  color: rgb(45,114,98);
+}
+#me{
+  float: right;
+}
+#smallmoney{
+  font-size: 40px;
+  color: rgb(45,114,98);
+}
+#mainText{
+  font-size: 40px;
+  color: rgb(24,64,82);
+  /*float: left; */
+  left: 50%;
+}
+#mainTextSmall{
+  font-size: 20px;
+  color: rgb(24,64,82);
+  /*float: left; */
+  left: 50%;
+}
+#leftimg{
+  float: left;
+}
+#midimg{
+  left: 50%;
+}
+#rightimg{
+  float: right;
+}
+#grad1 {
+  height: 150px;
+  width: 200px;
+  background-color: red;
+  background-image: radial-gradient(red, yellow, green);
+}
